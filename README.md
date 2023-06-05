@@ -54,6 +54,6 @@ This fruits website design was inspired by various web design examples and resou
 
 If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer:
 
-Email: aryahrmthl@gmail.com
+Email: aryahrmth@gmail.com
 
 GitHub: [Arun](https://github.com/arun-h)
