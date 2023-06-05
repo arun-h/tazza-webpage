@@ -56,4 +56,4 @@ If you have any questions, suggestions, or feedback, please feel free to contact
 
 Email: aryahrmthl@gmail.com
 
-GitHub: Arun(https://github.com/arun-h)
+GitHub: [Arun](https://github.com/arun-h)
