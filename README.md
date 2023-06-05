@@ -1,7 +1,9 @@
 
 # Responsive Multipage TAZZA Fruits Website Design using HTML, CSS, Bootstrap 5
 
-This repository contains code for a responsive multipage fruits website design built using HTML, CSS, and Bootstrap 5. The website showcases various fruits and provides information about their benefits, nutritional value, and recipes.
+This repository contains code for a responsive multipage fruits website design built using HTML, CSS, and Bootstrap 5. The website showcases various fruits and provides information about their benefits, nutritional value.
+
+Visit site : Tazza (https://arun-h.github.io/tazza-webpage/)
 
 ## Features
 
